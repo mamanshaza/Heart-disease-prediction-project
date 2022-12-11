@@ -1,9 +1,10 @@
 # Heart-disease-prediction-project
 This Project predicts if a patient suffers heart diseases
 
-Project-Predicting-Heart-Disease-with-Classification-Machine-Learning-Algorithms
 Project: Predicting Heart Disease with Classification Machine Learning Algorithms
+
 Author: Amina Tahir Balarabe
+
 Date: 11/1/2022
 
 ________________________________________
